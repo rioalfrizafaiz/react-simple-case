@@ -1,0 +1,12 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+}
+
+.navbar-item{
+    display: flex;
+    font-size: 25px;
+    /*justify-content: center;*/
+    /*align-items: center;*/
+    margin-left: 30px;
+}

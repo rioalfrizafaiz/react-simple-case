@@ -1,0 +1,6 @@
+Langkah deploy web pada github
+1. Pastikan web siap
+2. buar repository pada akun github
+3. pada terminal react, npm install gh-pages
+4. Pada package.json, tambahkan "homepage": "http://<nama user github>.github.io/<nama repositori yang dibuat pada poin 2>
+5.
