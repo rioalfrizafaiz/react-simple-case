@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-simple-case/static/css/main.f7ff8f74.chunk.css",
+    "main.js": "/react-simple-case/static/js/main.2fc76319.chunk.js",
+    "main.js.map": "/react-simple-case/static/js/main.2fc76319.chunk.js.map",
+    "runtime-main.js": "/react-simple-case/static/js/runtime-main.afe36789.js",
+    "runtime-main.js.map": "/react-simple-case/static/js/runtime-main.afe36789.js.map",
+    "static/js/2.e5034515.chunk.js": "/react-simple-case/static/js/2.e5034515.chunk.js",
+    "static/js/2.e5034515.chunk.js.map": "/react-simple-case/static/js/2.e5034515.chunk.js.map",
+    "static/js/3.dedf1a93.chunk.js": "/react-simple-case/static/js/3.dedf1a93.chunk.js",
+    "static/js/3.dedf1a93.chunk.js.map": "/react-simple-case/static/js/3.dedf1a93.chunk.js.map",
+    "index.html": "/react-simple-case/index.html",
+    "static/css/main.f7ff8f74.chunk.css.map": "/react-simple-case/static/css/main.f7ff8f74.chunk.css.map",
+    "static/js/2.e5034515.chunk.js.LICENSE.txt": "/react-simple-case/static/js/2.e5034515.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/react-simple-case/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afe36789.js",
+    "static/js/2.e5034515.chunk.js",
+    "static/css/main.f7ff8f74.chunk.css",
+    "static/js/main.2fc76319.chunk.js"
+  ]
+}
